@@ -1,0 +1,34 @@
+{
+    "Customer": [
+        {
+            "Name": "Me.lee",
+            "Items order": [
+                {
+                    "name": "A4 paper",
+                    "qty": 5,
+                    "price": 120
+                },
+                {
+                    "name": "Ruler",
+                    "qty": 2,
+                    "price": 25
+                },
+                {
+                    "Name": "Mr.Yue",
+                    "Items order": [
+                        {
+                            "name": "Flash Drive",
+                            "qty": 2,
+                            "price": 130
+                        },
+                        {
+                            "name": "A4P aper",
+                            "qty": 3,
+                            "price": 120
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

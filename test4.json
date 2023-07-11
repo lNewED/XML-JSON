@@ -1,0 +1,18 @@
+{
+    "Studentid : 566003204-1": [
+        {
+            "stdName": "Robert",
+            "gpa": 3.06,
+            "register": [
+                {
+                    "sid": 322433,
+                    "grade": "A"
+                },
+                {
+                    "sid": 322236,
+                    "grade": "C"
+                }
+            ]
+        }
+    ]
+}
